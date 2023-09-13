@@ -68,9 +68,8 @@ class _EditCvViewState extends State<EditCvView> {
                     hint: "brief info",
                   ),
                   const SizedBox(
-                    height: 20,
+                    height: 30,
                   ),
-                  const Spacer(),
                   MaterialButton(
                     minWidth: double.infinity,
                     height: 45,
